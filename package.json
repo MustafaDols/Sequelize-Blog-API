@@ -1,0 +1,17 @@
+{
+  "name": "Sequelize-Blog-API",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Mustafa M. Abd-Elaziz",
+  "license": "ISC",
+  "description": "Node.js + MySQL project for Blog-API",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
